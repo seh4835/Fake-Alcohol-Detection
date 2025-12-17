@@ -96,7 +96,7 @@ fake-alcohol-detection/
 
 ## Contributors
 
-* Seher Sanghani – Data preprocessing, visualization, Flask implementation
-* Om Sankar Nadar – Exploratory data analysis, model training
-* Sara Deshmukh – Model training, attrition testing
-* Antriksha Jain – Model training, attrition testing
+* Seher Sanghani – Data preprocessing, visualization, Flask implementation, Dashboard
+* Om Sankar Nadar – Exploratory data analysis, model training, Hyperparameter tuning, visualization
+* Sara Deshmukh – Model training, model testing, attrition testing
+* Antriksha Jain – Model training, model testing, attrition testing
